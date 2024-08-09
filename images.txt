@@ -4,18 +4,18 @@
 #xhofe/alist:latest
 #支持指定架构  --platform=linux/arm64     xiaoyaliu/alist  3
 
-acryldata/datahub-actions:head
-acryldata/datahub-frontend-react:head
-acryldata/datahub-gms:head
-acryldata/datahub-upgrade:head
-acryldata/datahub-kafka-setup:head
-acryldata/datahub-mysql-setup:head
-acryldata/datahub-elasticsearch-setup:head
+#acryldata/datahub-actions:head
+#acryldata/datahub-frontend-react:head
+#acryldata/datahub-gms:head
+#acryldata/datahub-upgrade:head
+#acryldata/datahub-kafka-setup:head
+#acryldata/datahub-mysql-setup:head
+#acryldata/datahub-elasticsearch-setup:head
 
-confluentinc/cp-schema-registry:7.4.0
-confluentinc/cp-kafka:7.4.0
-confluentinc/cp-zookeeper:7.4.0
+#confluentinc/cp-schema-registry:7.4.0
+#confluentinc/cp-kafka:7.4.0
+#confluentinc/cp-zookeeper:7.4.0
 
-elasticsearch:7.10.1
-mysql:8.2
+#elasticsearch:7.10.1
+#mysql:8.2
 apache/dolphinscheduler-standalone-server:3.2.2
