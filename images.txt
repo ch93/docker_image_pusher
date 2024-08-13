@@ -1,4 +1,6 @@
-openjdk:8-alpine
+hiromuhota/webspoon:0.8.2.19-full
+
+#openjdk:8-alpine
 #consul:1.9.4
 
 #nginx
