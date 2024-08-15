@@ -1,3 +1,5 @@
+instantbox/cron:latest
+instantbox/instantbox-frontend:latest
 instantbox/instantbox:latest
 
 #hiromuhota/webspoon:0.9.0.22
