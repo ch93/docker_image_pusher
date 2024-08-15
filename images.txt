@@ -1,4 +1,6 @@
-hiromuhota/webspoon:0.9.0.22
+instantbox/instantbox:latest
+
+#hiromuhota/webspoon:0.9.0.22
 #hiromuhota/webspoon:0.8.2.19-full
 
 #openjdk:8-alpine
