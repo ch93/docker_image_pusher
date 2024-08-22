@@ -1,6 +1,11 @@
-instantbox/cron:latest
-instantbox/instantbox-frontend:latest
-instantbox/instantbox:latest
+marquezproject/marquez:0.49.0
+marquezproject/marquez-web:0.49.0
+postgres:14
+
+
+#instantbox/cron:latest
+#instantbox/instantbox-frontend:latest
+#instantbox/instantbox:latest
 
 #hiromuhota/webspoon:0.9.0.22
 #hiromuhota/webspoon:0.8.2.19-full
