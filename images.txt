@@ -1,4 +1,4 @@
-ubuntu:14.04
+ubuntu:18.04
 #marquezproject/marquez:0.49.0
 #marquezproject/marquez-web:0.49.0
 #postgres:14
