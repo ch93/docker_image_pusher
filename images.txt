@@ -1,4 +1,5 @@
-postgres:16.2
+tdengine/tsdb:3.3.8.8
+#postgres:16.2
 
 #ubuntu:18.04
 #marquezproject/marquez:0.49.0
