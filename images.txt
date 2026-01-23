@@ -1,4 +1,8 @@
---platform=linux/arm64/v8 tdengine/tsdb:3.3.8.8
+--platform=linux/amd64 tdengine/tsdb:3.3.8.8
+# 指定镜像的架构
+#--platform=linux/arm64/v8 tdengine/tsdb:3.3.8.8
+
+
 #postgres:16.2
 
 #ubuntu:18.04
