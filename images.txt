@@ -3,11 +3,11 @@
 #--platform=linux/arm64/v8 tdengine/tsdb:3.3.8.8
 
 hyperledger/fabric-ca:1.5.6
-hyperledger/fabric-peer:2.5
-hyperledger/fabric-tools:2.5
-hyperledger/fabric-orderer:2.5
-hyperledger/fabric-ccenv:2.5
-hyperledger/fabric-baseos:2.5
+hyperledger/fabric-peer:2.5.16
+hyperledger/fabric-tools:2.5.16
+hyperledger/fabric-orderer:2.5.16
+hyperledger/fabric-ccenv:2.5.16
+hyperledger/fabric-baseos:2.5.16
 
 
 #instantbox/cron:latest
