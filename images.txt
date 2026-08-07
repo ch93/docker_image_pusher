@@ -2,7 +2,9 @@
 # 指定镜像的架构
 #--platform=linux/arm64/v8 tdengine/tsdb:3.3.8.8
 
-couchdb:3.4.2
+hyperledger/fabric-javaenv:2.5
+
+#couchdb:3.4.2
 
 #hyperledger/fabric-ca:1.5.17
 #hyperledger/fabric-peer:2.5.16
