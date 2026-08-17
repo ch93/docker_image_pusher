@@ -2,17 +2,19 @@
 # 指定镜像的架构
 #--platform=linux/arm64/v8 tdengine/tsdb:3.3.8.8
 
---platform=linux/arm64 hyperledger/fabric-javaenv:2.5.6
+#--platform=linux/arm64 hyperledger/fabric-javaenv:2.5.6
 
---platform=linux/arm64/v8 couchdb:3.3.3
+#--platform=linux/arm64/v8 couchdb:3.3.3
 
---platform=linux/arm64 hyperledger/fabric-ca:1.5.9
---platform=linux/arm64 hyperledger/fabric-peer:2.5.6
---platform=linux/arm64 hyperledger/fabric-tools:2.5.6
---platform=linux/arm64 hyperledger/fabric-orderer:2.5.6
---platform=linux/arm64 hyperledger/fabric-ccenv:2.5.6
---platform=linux/arm64 hyperledger/fabric-baseos:2.5.6
+#--platform=linux/arm64 hyperledger/fabric-ca:1.5.9
+#--platform=linux/arm64 hyperledger/fabric-peer:2.5.6
+#--platform=linux/arm64 hyperledger/fabric-tools:2.5.6
+#--platform=linux/arm64 hyperledger/fabric-orderer:2.5.6
+#--platform=linux/arm64 hyperledger/fabric-ccenv:2.5.6
+#--platform=linux/arm64 hyperledger/fabric-baseos:2.5.6
 
+
+--platform=linux/arm64 kartoza/postgis:16-3.4
 
 #instantbox/cron:latest
 #instantbox/instantbox-frontend:latest
